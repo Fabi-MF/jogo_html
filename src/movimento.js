@@ -25,7 +25,7 @@ const loop = setInterval(() =>{
         rostinho.style.animation = 'none';
         rostinho.style.bottom = `${rostinhoPosition}px`;
 
-        rostinho.src = 'img/sad_fabimf.png' ;
+        rostinho.src = '../img/sad_fa.png' ;
 
         gram0.style.animation='none';
         gram0.style.left = `${ gram0Position}`
